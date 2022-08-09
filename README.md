@@ -1,4 +1,4 @@
-local Player = game:GetService("Players").LocalPlayer
+85, 255, 255local Player = game:GetService("Players").LocalPlayer
 local Mouse = Player:GetMouse()
 
 local TextService = game:GetService("TextService")
@@ -106,18 +106,18 @@ local Themes = {
 		TextFieldAccent = Color3.fromRGB(255,255,255)
 	},
 	Aqua = {
-		MainFrame = Color3.fromRGB(255,255,255),
+		MainFrame = Color3.fromRGB(85, 255, 255),
 		Minimise = Color3.fromRGB(219, 210, 202),
 		MinimiseAccent = Color3.fromRGB(219, 210, 202),
 		Maximise = Color3.fromRGB(189, 183, 177),
 		MaximiseAccent = Color3.fromRGB(189, 183, 177),
 		NavBar = Color3.fromRGB(116, 112, 140),
-		NavBarAccent = Color3.fromRGB(255,255,255),
-		NavBarInvert = Color3.fromRGB(30,30,30),
+		NavBarAccent = Color3.fromRGB(85, 255, 255),
+		NavBarInvert = Color3.fromRGB(85, 255, 255),
 		TitleBar = Color3.fromRGB(85, 255, 255),
 		TitleBarAccent = Color3.fromRGB(255,255,255),
 		Overlay = Color3.fromRGB(116, 112, 140),
-		Banner = Color3.fromRGB(255,255,255),
+		Banner = Color3.fromRGB(85, 255, 255),
 		BannerAccent = Color3.fromRGB(116, 112, 140),
 		Content = Color3.fromRGB(85, 255, 255),
 		Button = Color3.fromRGB(85, 255, 255),
